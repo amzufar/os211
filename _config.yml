@@ -1,0 +1,20 @@
+title:       "Operating Systems 2021-1 (OS211)"
+# version:     "0030---05-Mar-2021"
+copyright:   "2021-2021"
+description: "Hello"
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA-89852122-6"
+author:           "Ammar Muhammad Zufar"
+address:          "Tangerang Selatan"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://amzufar.github.io/os211/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/amzufar/os211/"
+urlghpage:        "https://amzufar.github.io/os211/"
+keywords:         "jekyll, testing"
+github:           [metadata]
+
