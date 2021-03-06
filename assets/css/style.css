@@ -1,6 +1,7 @@
 .plainclass {
     color: whitesmoke;
-    background-color: #111111;
+    /* background-color: #111111; */
+    background-color: #2b303a;
     font-family: Helvetica, Arial, sans-serif;
     display: flex;
     justify-content: center;
@@ -8,7 +9,8 @@
   
 .row {
     display: flex;
-    background-color: #636c6e;
+    /* background-color: #b8bdb5; */
+    background-color: #92dce5;
     padding: 1rem 3rem 1rem 1rem;
 }
   
