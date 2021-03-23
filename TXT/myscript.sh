@@ -4,15 +4,16 @@ FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
 
 [ -d $HOME/RESULT ] || mkdir -p $HOME/RESULT
-pushd II in W?? ; do
-	[ -d $II ] || continue
-	TARFILE=my$II.tar.bz2
-	TARFASC=$TARFILE.asc
-	rm -f $TARFILE $TARFASC
-	echo "tar cfj $TARFILE $II/"
-	tar cfj $TARFILE $II/
-	echo "gpg --armor --output $TARFASC --encrypt recipient $REC1 --recipient $REC2 $TARFILE"
-	gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
+pushd $HOME/RESULT
+for II in W?? ; do
+    [ -d $II ] || continue
+    TARFILE=my$II.tar.bz2
+    TARFASC=$TARFILE.asc
+    rm -f $TARFILE $TARFASC
+    echo "tar cfj $TARFILE $II/"
+    tar cfj $TARFILE $II/
+    echo "gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE"
+    gpg --armor --output $TARFASC --encrypt --recipient $REC1 --recipient $REC2 $TARFILE
 done
 popd
 
