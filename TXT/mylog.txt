@@ -25,3 +25,9 @@ ZCZC W03 60 L09 AsDos: konsultasi karena bash 000-README tidak jalan hehe
 ZCZC W03 40 L10 Assignment: updating myrank & creating w03.md
 ZCZC W03 120 L11 Assignment: updating .bash_aliases & myscript, decrypt & extract tarball file
 ZCZC W03 60 L23 Discord: Pop Quiz
+ZCZC W04 40 L10 Assignment: updating myrank, mylog & creating w04.md
+ZCZC W04 120 L14 Assignment #4: creating TTLoTW
+ZCZC W04 60 L16 Assignment #6
+ZCZC W04 10 L17 Assignment #7
+ZCZC W04 5 L18 Assignment #8
+ZCZC W04 30 L23 Discord: Pop Quiz
