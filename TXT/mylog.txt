@@ -31,3 +31,9 @@ ZCZC W04 60 L16 Assignment #6
 ZCZC W04 10 L17 Assignment #7
 ZCZC W04 5 L18 Assignment #8
 ZCZC W04 30 L23 Discord: Pop Quiz
+ZCZC W05 90 L11 Assignment #1: Reading chapter 10
+ZCZC W05 60 L12 Assignment #2: review top 10
+ZCZC W05 90 L13 Assignment #3: creating TTLoTW
+ZCZC W05 90 L14 Assignment #4
+ZCZC W05 10 L15 Assignment #5: update log
+ZCZC W05 5 L16 Assignment #6: sign SHA256SUM
