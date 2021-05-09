@@ -49,6 +49,6 @@ ZCZC W07 60 L13 Assignment #3: creating TTLoTW
 ZCZC W07 90 L14 Assignment #4
 ZCZC W08 90 L01 ZOOM related
 ZCZC W08 15 L11 Assignment #1
-ZCZC W08 60 L12 Assignment #2: review top 10
+ZCZC W08 150 L12 Assignment #2: review top 10 & creating TTLoTW
 ZCZC W08 90 L13 Assignment #3
 ZCZC W08 30 L99 QUIZ
