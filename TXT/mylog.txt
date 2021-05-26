@@ -58,3 +58,6 @@ ZCZC W09 60 L12 Assignment #2: review top 10
 ZCZC W09 90 L13 Assignment #3: creating TTLoTW
 ZCZC W09 240 L14 Assignment #4: LFS Chapter 5-7
 ZCZC W09 30 L23 Discord: Pop Quiz
+ZCZC W10 30 L01 SCELE related: Pop Quiz
+ZCZC W10 30 L11 Assignment #1: Reading chapter 12
+ZCZC W10 60 L12 Assignment #2: review top 10
